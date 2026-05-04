@@ -428,7 +428,9 @@ end
 
 r4:ping 8.8.8.8
 p1:ping 8.8.8.8
+show ip route
 
+-------------END FOR ASSIGNMENT-----------------------
 TASK5: ROUTING: static,eigrp,ospf,BGP vs
        TUNNELING: VPN:
 @VPNJP:
